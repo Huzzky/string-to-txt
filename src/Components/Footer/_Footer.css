@@ -1,0 +1,15 @@
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(50,50,50);
+}
+footer p{
+    color: #D6D6D6;
+    font-size:36px;
+    font-family: "sf-pro thin", sans-serif;
+}
+footer img {
+    width: 36px;
+    height: 36px;
+}

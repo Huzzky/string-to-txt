@@ -1,0 +1,7 @@
+.App {
+ width: 100vw;
+  height: 100vh;
+  display: grid;
+  grid-template-rows: 7.5% 85% 7.5%;
+  background-color: rgb(35, 35, 35);
+}

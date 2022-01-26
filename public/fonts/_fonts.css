@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'sf-pro thin'; /*a name to be used later*/
+    src: url('./fonts/sf-pro-thin.ttf') format('truetype'); /*URL to font*/
+}
+
+@font-face {
+    font-family: 'sf-pro bold'; /*a name to be used later*/
+    src: url('./fonts/SF-Pro-Display-Bold.ttf') format('truetype'); /*URL to font*/
+}
+
+@font-face {
+    font-family: 'sf-pro black'; /*a name to be used later*/
+    src: url('./fonts/SF-Pro-Display-Black.ttf') format('truetype'); /*URL to font*/
+}
